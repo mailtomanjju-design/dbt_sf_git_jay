@@ -1,0 +1,8 @@
+sources:
+  - name: s1
+    database: dev_db
+    schema: dev_schema
+    tables:
+      - name: orders
+      - name: t_customer
+      - name: t_nation
